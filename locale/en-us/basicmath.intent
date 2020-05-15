@@ -1,8 +1,5 @@
-Calculate three plus two
-Calculate five plus three
-Calculate three divided by four
-Calculate three multiplied by four
-Add three plus two
-Subtract two from three
-Multiply three and two
-Divide three by two
+calculate {number} {operator} {number}
+what is {number} {operator} {number}
+{operator} {number} and {number}
+{operator} {number} from {number}
+{operator} {number} by {number}
